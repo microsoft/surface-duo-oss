@@ -94,6 +94,9 @@ repo sync
 | 2021.913.25 | surfaceduo/10/2021.913.25 |
 | 2021.913.26 | surfaceduo/10/2021.913.26 |
 | 2021.913.27 | surfaceduo/10/2021.913.27 |
+| 2021.1019.24 | surfaceduo/10/2021.1019.24 |
+| 2021.1019.25 | surfaceduo/10/2021.1019.25 |
+| 2021.1019.26 | surfaceduo/10/2021.1019.26 |
 
 ## Get the Qualcomm Snapdragon LLVM Compiler
 
