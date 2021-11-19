@@ -48,13 +48,14 @@ repo init -u https://github.com/microsoft/surface-duo-oss-kernel.manifest -b *BR
 repo sync
 ```
 
-### Surace Duo 2 Kernel Releases
+### Surface Duo 2 Kernel Releases
 
 | Build Number | repo branches |
 |-|-|
 | 2021.806.220 | surfaceduo2/11/2021.806.220 |
 | 2021.824.206 | surfaceduo2/11/2021.824.206 |
 | 2021.827.34 | surfaceduo2/11/2021.827.34 |
+| 2021.830.19 | surfaceduo2/11/2021.830.19 |
 
 
 ## Build
