@@ -105,6 +105,7 @@ repo sync
 | 2022.418.56 | surfaceduo/11/2022.418.56 |
 | 2022.517.57 | surfaceduo/11/2022.517.57 |
 | 2022.519.29 | surfaceduo/11/2022.519.29 |
+| 2022.519.41 | surfaceduo/11/2022.519.41 |
 
 ## Get the Qualcomm Snapdragon LLVM Compiler
 
